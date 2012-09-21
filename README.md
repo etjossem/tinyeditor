@@ -5,7 +5,7 @@ TinyEditor is a simple JavaScript WYSIWYG editor that is both lightweight (under
 
 Usage:
 
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -41,3 +41,4 @@ var editor = new TINY.editor.edit('editor', {
 </script>
 </body>
 </html>
+```
